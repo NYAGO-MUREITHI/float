@@ -1,5 +1,10 @@
 img {
+     dispaly: block;
      float: center;
+     width: auto;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%
 }
 .sidebar {
   width: 30%;
