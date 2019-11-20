@@ -28,6 +28,8 @@ p{
 .kay{
      float: left;
      background-color: white;
+     border-color: black;
+     border-width: thick;
 }
 .right{
        float: right;
