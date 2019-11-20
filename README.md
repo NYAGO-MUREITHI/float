@@ -5,7 +5,7 @@ The webpage is meant to give ticketing information for a rock concert by the roa
 NYAGUTHIE MUREITHI
 # KEY BUGS
 No bugs have been found or noted so far though the webpage has only been run on Chrome
-#TECHNOLOGY USED
+# TECHNOLOGY USED
 The webpage was edited on Atom and coded in html and css languages.
 # LICENSES
 MIT License
