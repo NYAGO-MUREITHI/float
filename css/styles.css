@@ -15,22 +15,21 @@ img {
     width: 350px;
     text-align: center;
   }
-h1{
+h1 {
   text-align: center;
 }
-p{
+p {
   text-align: center;
 }
-.power{
+.power {
        font-style: bold,italic;
        color: red;
 }
-.kay{
+.kay {
      float: left;
      background-color: white;
-     border-color: black;
-     border-width: thick;
+     border:4px black;
 }
-.right{
+.right {
        float: right;
 }
