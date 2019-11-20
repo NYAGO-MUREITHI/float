@@ -21,3 +21,6 @@ h1{
 p{
   text-align: center;
 }
+.power{
+       font-style: bold,italic;
+}
